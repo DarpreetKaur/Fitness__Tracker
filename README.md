@@ -82,11 +82,11 @@ npm start
 
 
 ## Screenshots
-![MainPage](Screenshots/Main Page.png)
-![RegisterPage](Screenshots/Register Page.png)
-![LoginPage](Screenshots/Login Page.png)
-![BMICalculator](Screenshots/BMI Calculator.png)
-![CalorieTracker](Screenshots/Calorie Tracker.png)
-![ActivityPlanner](Screenshots/Activity Planner.png)
+![Main Page](https://github.com/user-attachments/assets/17ce0820-1038-477f-b1a0-a657c89a89f2)
+![Register page](https://github.com/user-attachments/assets/72f2d21f-d62c-4693-8d48-3645cf6ebe57)
+![Login page](https://github.com/user-attachments/assets/c0957c71-dc5b-455b-8f93-50a5867c5cb6)
+![BMI Calculator](https://github.com/user-attachments/assets/4a9441d9-9f1f-4613-b1a3-b1e715add4b2)
+![Activity Planner](https://github.com/user-attachments/assets/47456c11-f9d0-47e7-a8df-cae185dc170a)
+![Calorie Tracker](https://github.com/user-attachments/assets/06b36dc5-5ca2-48e0-aaf9-2529e14d416c)
 ![About Me](Screenshots/AboutMe.png)
 
