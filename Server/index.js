@@ -1,0 +1,30 @@
+require("dotenv").config();
+const express = require("express");
+const app = express();
+
+const cors = require("cors");
+const connection = require("./db");
+const userRoutes = require("./routes/users");
+const authRoutes = require("./routes/auth");
+const foodRoutes = require('./routes/food');
+const exerciseRoutes = require('./routes/exercise')
+
+// database connection
+connection();
+
+// middlewares
+
+app.use(express.json());
+app.use(cors); // or 5173 if using Vite
+
+
+// routes
+app.use("/api/users", userRoutes);
+app.use("/api/auth", authRoutes);
+app.use('/food', foodRoutes);
+app.use('/exercise', exerciseRoutes);
+
+const port = process.env.PORT || 8080;
+app.listen(port, console.log(`Listening on port ${port}...`));
+
+
