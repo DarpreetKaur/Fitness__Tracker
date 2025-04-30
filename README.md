@@ -82,11 +82,11 @@ npm start
 
 
 ## Screenshots
-![Main Page](Screenshots/Main Page.png)
-![Register Page](Screenshots/Register Page.png)
-![Login Page](Screenshots/Login Page.png)
-![BMI Calculator](Screenshots/BMI Calculator.png)
-![Calorie Tracker](Screenshots/Calorie Tracker.png)
-![Activity planner](Screenshots/Activity Planner.png)
+![MainPage](Screenshots/Main Page.png)
+![RegisterPage](Screenshots/Register Page.png)
+![LoginPage](Screenshots/Login Page.png)
+![BMICalculator](Screenshots/BMI Calculator.png)
+![CalorieTracker](Screenshots/Calorie Tracker.png)
+![ActivityPlanner](Screenshots/Activity Planner.png)
 ![About Me](Screenshots/AboutMe.png)
 
